@@ -41,13 +41,17 @@ Homework givin in Université de Montréal in the class "databases".
 ## Project images
 
 > - Entity-relations model for the project
+>
 >   ![entity-relations model](https://github.com/Karenn7faee/Video-Sreaming-App/blob/main/images/Video_ER-model.png?raw=true)
 >
 > - Client's vue once logged in
+>
 >   ![client vue selection list picture](https://github.com/Karenn7faee/Video-Sreaming-App/blob/main/images/VideoClientApp.png?raw=true)
 >
 > - Client's movie search menu
+>
 >   ![client vue movie search picture](https://github.com/Karenn7faee/Video-Sreaming-App/blob/main/images/VideoApp.png?raw=true)
 >
 > - Admin's vue
+>
 >   ![Admin vue picture](https://github.com/Karenn7faee/Video-Sreaming-App/blob/main/images/VideoAdminApp.png?raw=true)
